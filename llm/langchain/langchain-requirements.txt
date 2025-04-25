@@ -1,0 +1,9 @@
+langchain
+langchain-huggingface
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-groq
+huggingface-hub
+ollama
+groq
